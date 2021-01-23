@@ -61,8 +61,3 @@ module LameGameRandomizer
   end
 
 end
-
-# p LameGameRandomizer::Coin.flip
-# p LameGameRandomizer::PlayingCard.draw
-# p LameGameRandomizer::Dice.roll("d20", 1)
-# p LameGameRandomizer::Lotto.pick(6, 99)
